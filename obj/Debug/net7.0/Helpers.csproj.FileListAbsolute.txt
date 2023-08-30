@@ -1,0 +1,15 @@
+C:\Users\Jorge_Chavez\Documents\Helpers\bin\Debug\net7.0\Helpers.exe
+C:\Users\Jorge_Chavez\Documents\Helpers\bin\Debug\net7.0\Helpers.deps.json
+C:\Users\Jorge_Chavez\Documents\Helpers\bin\Debug\net7.0\Helpers.runtimeconfig.json
+C:\Users\Jorge_Chavez\Documents\Helpers\bin\Debug\net7.0\Helpers.dll
+C:\Users\Jorge_Chavez\Documents\Helpers\bin\Debug\net7.0\Helpers.pdb
+C:\Users\Jorge_Chavez\Documents\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\Jorge_Chavez\Documents\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge_Chavez\Documents\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\Jorge_Chavez\Documents\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+C:\Users\Jorge_Chavez\Documents\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Jorge_Chavez\Documents\Helpers\obj\Debug\net7.0\Helpers.dll
+C:\Users\Jorge_Chavez\Documents\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+C:\Users\Jorge_Chavez\Documents\Helpers\obj\Debug\net7.0\Helpers.pdb
+C:\Users\Jorge_Chavez\Documents\Helpers\obj\Debug\net7.0\Helpers.genruntimeconfig.cache
+C:\Users\Jorge_Chavez\Documents\Helpers\obj\Debug\net7.0\ref\Helpers.dll
